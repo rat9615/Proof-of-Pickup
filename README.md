@@ -6,5 +6,5 @@ This project provides a Blockchain-Based Solution for Proof of Pick-up of a Phys
   * [Proof of Pick-up](https://ieeexplore.ieee.org/document/9203298)
 
 ## References
-The smart-contract was inspired by:
+This smart-contract was inspired by:
   * [Proof Of Delivery](https://github.com/smartcontract694/POD_PhysicalItems)
